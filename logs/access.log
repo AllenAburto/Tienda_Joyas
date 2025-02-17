@@ -1,0 +1,8 @@
+[2025-02-17T23:20:13.989Z] Ruta accedida: GET /joyas/filtros?precio_min=25000&precio_max=30000&categoria=aros&metal=plata
+[2025-02-17T23:20:35.055Z] Ruta accedida: GET /joyas
+[2025-02-17T23:21:07.506Z] Ruta accedida: GET /joyas
+[2025-02-17T23:21:34.652Z] Ruta accedida: GET /joyas
+[2025-02-17T23:21:55.397Z] Ruta accedida: GET /joyas?limits=3&page=2&order_by=stock_ASC
+[2025-02-17T23:22:10.303Z] Ruta accedida: GET /joyas
+[2025-02-17T23:22:11.446Z] Ruta accedida: GET /joyas
+[2025-02-17T23:22:12.284Z] Ruta accedida: GET /joyas
